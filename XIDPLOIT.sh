@@ -692,8 +692,8 @@ clear
 git clone https://github.com/TUANB4DUT/WHOIS
 cd WHOIS
 chmod 777 WHOIS.sh
-echo "KETIKAN: ./WHOIS.sh
-fi
+./WHOIS.sh
+fi 
 
 if [ $sf = 36 ] || [ $sf = 36 ]
 then 
@@ -705,7 +705,7 @@ pip2 install lolcat
 git clone https://github.com/TUANB4DUT/REVERSEDNS
 cd REVERSEDNS
 chmod 777 REVERSEDNS.sh
-echo "KETIKAN : ./REVERSEDNS.sh
+./REVERSEDNS.sh
 fi 
 
 if [ $sf = 00 ] || [ $sf = 00 ]
