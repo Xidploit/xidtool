@@ -633,7 +633,7 @@ echo -x "${y} Nah kalian tinggal masuk ke dictiory virusnya"
 echo -x "${y} Contoh = cd xbot"
 echo -x "${y} ls"
 echo -x "${y} Nah kalian tinggal pindahin virus itu ke sdcard"
-
+fi
 
 if [ $sf = 00 ] || [ $sf = 00 ]
 then
